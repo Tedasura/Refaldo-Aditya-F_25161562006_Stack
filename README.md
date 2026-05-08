@@ -1,1 +1,3 @@
-# Refaldo-Aditya-F_25161562006_Stack
+Nama : Refaldo Aditya Firmanstah
+NPM : 25161562006
+Kelas : 2A Informatika 
